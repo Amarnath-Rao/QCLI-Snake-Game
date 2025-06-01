@@ -56,7 +56,11 @@ python game.py
 ## 📷 Screenshot
 ![Screenshot from 2025-06-01 14-59-32](https://github.com/user-attachments/assets/2ad13a2f-5e5f-40fb-bcb3-b686e0ef3aac)
 
-#### Game from gitpod (_note: this is terminal based game_)
+#### Gameplay:
+[Screencast from 2025-06-01 17-00-35.webm](https://github.com/user-attachments/assets/5e87a966-25c5-4b12-9f8a-a679f62d5337)
+
+
+#### Game from gitpod (_note: this is terminal based game_):
 
 ![Screenshot from 2025-06-01 15-21-39](https://github.com/user-attachments/assets/68ecb427-02de-4ab0-bae3-74aff9745f93)
 
