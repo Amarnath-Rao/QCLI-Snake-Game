@@ -1,3 +1,7 @@
+image:
+  file: .gitpod.Dockerfile
+
 tasks:
-  - init: sudo apt update && sudo apt install -y python3
+  - name: Run Snake Game
+    init: sudo apt update && sudo apt install -y python3
     command: python3 snake_game.py
