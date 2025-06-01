@@ -59,6 +59,11 @@ python game.py
 ## 📷 Screenshot
 ![Screenshot from 2025-06-01 14-59-32](https://github.com/user-attachments/assets/2ad13a2f-5e5f-40fb-bcb3-b686e0ef3aac)
 
+#### Game from gitpod (_note: this is terminal based game_)
+
+![Screenshot from 2025-06-01 15-21-39](https://github.com/user-attachments/assets/68ecb427-02de-4ab0-bae3-74aff9745f93)
+
+
 #### Code:
 ![Screenshot from 2025-06-01 15-00-29](https://github.com/user-attachments/assets/e089e454-516f-45d6-98a2-91ccc643079f)
 
@@ -71,5 +76,3 @@ python game.py
 ---
 
 Made with ❤️ and Amazon Q CLI
-
-```
