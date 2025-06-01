@@ -1,6 +1,3 @@
-### Terminal Snake Game (made with Amazon Q CLI)
-
-````markdown
 # 🐍 Terminal Snake Game (Built with Amazon Q CLI)
 
 A classic Snake game written in Python using the `curses` library, developed with the help of **Amazon Q CLI**.
